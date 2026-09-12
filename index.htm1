@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Sunday Kids Orphanage Home</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background: #1b5e20;
+            color: white;
+            text-align: center;
+            padding: 30px 15px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+
+        header p {
+            font-size: 17px;
+        }
+
+        section {
+            background: white;
+            margin: 20px;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #1b5e20;
+        }
+
+        .contact {
+            font-size: 18px;
+            line-height: 1.8;
+        }
+
+        .donate {
+            background: #fff3cd;
+            border-left: 5px solid #ffc107;
+        }
+
+        footer {
+            background: #1b5e20;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>St. Sunday Kids Orphanage Home</h1>
+    <p>Giving Hope, Love and a Better Future to Children</p>
+</header>
+
+<section>
+    <h2>About Us</h2>
+    <p>
+        St. Sunday Kids Orphanage Home is dedicated to caring for children
+        and providing them with love, support, education and a safe place
+        to grow.
+    </p>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <div class="contact">
+        <strong>Phone:</strong><br>
+        +234 916 156 4976<br>
+        +234 806 523 9590
+    </div>
+</section>
+
+<section class="donate">
+    <h2>Support the Children</h2>
+    <p>
+        Your support can help provide food, clothing, education,
+        healthcare and other basic needs for the children.
+    </p>
+
+    <p><strong>Remitly Account Details</strong></p>
+    <p>
+        Account Number: 2325921440
+    </p>
+</section>
+
+<section>
+    <h2>Thank You</h2>
+    <p>
+        Thank you for caring about the children and supporting our mission.
+        Every contribution, no matter how small, makes a difference.
+    </p>
+</section>
+
+<footer>
+    <p>©️ 2026 St. Sunday Kids Orphanage Home</p>
+    <p>God bless you for your support ❤️</p>
+</footer>
+
+</body>
+</html>
